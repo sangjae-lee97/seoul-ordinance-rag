@@ -1,0 +1,6 @@
+openai>=1.40
+requests
+numpy
+fastapi
+uvicorn
+python-dotenv
